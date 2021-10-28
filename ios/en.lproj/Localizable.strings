@@ -646,3 +646,4 @@ Any questions or requests can be discussed with the teacher.";
 "in.process" = "Verification information under review";
 "permission.denied.feature.unavailable" = "You've rejected access permissions for AmazingTalker on your phone, so the function will be limited. Please go to your system settings to manually enable access for AmazingTalker.";
 "identity.scan.failure.message" = "Scanning of your ID has failed, please scan your ID again.";
+"test" = "test";

@@ -635,5 +635,6 @@
 "scan.complete.title" = "";
 "scan.complete.body" = "";
 "in.process" = "";
-"permission.denied.feature.unavailable" = "";
-"identity.scan.failure.message" = "";
+"permission.denied.feature.unavailable" = "お使いの携帯電話でAmazingTalkerアクセス許可を拒否されたため、機能が制限されます。システム設定に移動し、AmazingTalkerへのアクセスを手動で有効にしてください。";
+"identity.scan.failure.message" = "確認書類の読み込みに失敗しました。もう一度書類をスキャンしてください。";
+"test" = "";
