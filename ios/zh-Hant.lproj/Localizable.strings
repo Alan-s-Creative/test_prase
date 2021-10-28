@@ -646,3 +646,4 @@
 "in.process" = "驗證資料審核中";
 "permission.denied.feature.unavailable" = "您拒絕了App向您申請的權限X3，功能將會受到限制。請前往系統設定手動開啟AmazingTalker的權限。";
 "identity.scan.failure.message" = "證件辨識失敗，請重新掃描證件3";
+"test" = "測試";

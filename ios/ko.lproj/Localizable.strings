@@ -635,5 +635,6 @@
 "scan.complete.title" = "";
 "scan.complete.body" = "";
 "in.process" = "";
-"permission.denied.feature.unavailable" = "";
-"identity.scan.failure.message" = "";
+"permission.denied.feature.unavailable" = "본인의 휴대폰에서 AmazingTalker 앱의 접근 권한을 거부하셨기 때문에 일부 기능이 제한될 수 있습니다. 설정에 들어가셔서 앱의 권한을 허용해주세요.";
+"identity.scan.failure.message" = "신분증 스캔 실패, 다시 스캔해주세요.";
+"test" = "";

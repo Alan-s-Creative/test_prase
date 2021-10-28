@@ -634,6 +634,7 @@
 "country" = "";
 "scan.complete.title" = "";
 "scan.complete.body" = "";
-"in.process" = "";
-"permission.denied.feature.unavailable" = "";
-"identity.scan.failure.message" = "";
+"in.process" = "L'information de vérification est en cours d'examen";
+"permission.denied.feature.unavailable" = "Vous avez refusé l'accès de AmazingTalker à votre téléphone, donc la fonction sera restreinte. Veuillez aller aux paramètres du système pour activer manuellement l'accès d'AmazingTalker.";
+"identity.scan.failure.message" = "Votre pièce d'identité n'a pas pu être scannée, veuillez la scanner à nouveau.";
+"test" = "";
